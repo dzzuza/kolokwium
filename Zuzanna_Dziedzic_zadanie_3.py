@@ -1,3 +1,4 @@
+#Zuzanna Dziedzic
 lista=input("podaj listę liczb: ")
 
 tab=[]

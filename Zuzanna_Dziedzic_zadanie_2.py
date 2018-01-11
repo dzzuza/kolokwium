@@ -1,3 +1,4 @@
+#Zuzanna Dziedzic
 h=7
 w=11
 n=h//2+1

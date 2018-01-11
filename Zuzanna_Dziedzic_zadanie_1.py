@@ -1,6 +1,6 @@
 alphabet="aąbcćdeęfghijklłmnoóprqsśtuvwxyzźż"
 alphabetbig="AĄBCĆDEĘFGHIJKLŁMNOÓPRQSŚTUVWXYZŹŻ"
-
+#tojestzmiana1
 word=str("kajak")
 sentence=("Napotkała typa. Zapytała: 'Kto Pan?'")
 word2=''
